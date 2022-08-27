@@ -10,7 +10,7 @@
 - sudo apt-get install openssh-server
 
 ### grub
-#### disable for NVIDIA
+#### 1.disable for NVIDIA
 sudo vim /etc/default/grub
   ```bash
    GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"

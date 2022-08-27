@@ -11,16 +11,15 @@
 
 ### grub
 #### 1.disable for NVIDIA
-sudo vim /etc/default/grub
-  ```bash
-   GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
-  ``` 
-sudo update-grub  
+```bash
+sudo vim /etc/default/grub 
+  GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
+sudo update-grub 
+
 sudo vim /etc/modprobe.d/blacklist.conf
-  ```bash
   blacklist nouveau
-  ``` 
 sudo update-initramfs -u
+``` 
 
 - cat /boot/grub/grub.cfg | grep memuentry
 

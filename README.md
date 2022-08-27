@@ -10,11 +10,12 @@
 - sudo apt-get install openssh-server
 
 ### grub
-- sudo vim /etc/default/grub
+#### disable for NVIDIA
+sudo vim /etc/default/grub
   ```bash
    GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
   ``` 
-- sudo update-grub
+sudo update-grub
 
 - sudo vim /etc/modprobe.d/blacklist.conf
   blacklist nouveau

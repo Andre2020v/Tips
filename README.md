@@ -9,29 +9,4 @@
 - cat /boot/grub/grub.cfg | grep memuentry
 
 ### shell
-export PS1="\[\e[31m\][\[\e[m\]\[\e[38;5;172m\]\u\[\e[m\]@\[\e[38;5;153m\]\h\[\e[m\] \[\e[38;5;214m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\\$ "
- 
-cat<<'EOF'
-           _..._
-         .'     '.
-        /  _   _  \
-        | (o)_(o) |
-         \(     ) /
-         //'._.'\ \
-        //   .   \ \
-       ||   .     \ \
-       |\   :     / |
-       \ `) '   (`  /_
-     _)``".____,.'"` (_
-     )     )'--'(     (
-      '---`      `---`
-EOF
 
-function git-branch-name {
-  git symbolic-ref HEAD 2>/dev/null | cut -d"/" -f 3
-}
-function git-branch-prompt {
-  local branch=`git-branch-name`
-  if [ $branch ]; then printf " [%s]" $branch; fi
-}
-PS1="\u@\h \[\033[0;36m\]\W\[\033[0m\]\[\033[0;32m\]\$(git-branch-prompt)\[\033[0m\] \$ "

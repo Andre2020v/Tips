@@ -12,7 +12,7 @@
 ### grub
 - sudo vim /etc/default/grub
   ```bash
-     GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
+   GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
   ```
   
 - sudo update-grub

@@ -15,7 +15,7 @@ sudo vim /etc/default/grub
   ```bash
    GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
   ``` 
-sudo update-grub
+sudo update-grub  
 sudo vim /etc/modprobe.d/blacklist.conf
   ```bash
   blacklist nouveau

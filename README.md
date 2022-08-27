@@ -27,9 +27,23 @@ sudo update-initramfs -u
 - sudo ./NVIDIA-Linux-x86_64-515.65.01.run
 
 ### samba
+#### samba server
+- sudo apt-get install samba
+- vim /etc/samba/smb.conf
+```bash
+[P1]
+   comment = P1
+   browseable = yes
+   path = /home/andrew/samba_share
+   guest ok = no
+   writable = yes
+   create mask = 0777
+```
+- sudo service smbd restart
+
 - sudo apt-get install -y smbclient cifs-utils
 - sudo mount -t cifs -o user=username  //ip_address/study  /local/samba_disk/
 - sudo umount /local/samba_disk/
 
-
+- 
 

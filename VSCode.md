@@ -1,5 +1,6 @@
 
 
 ### smart selection
-Windows/Linux:  shift alt left/right arrows <br>
+Windows/Linux:  shift alt left/right arrows  
 Mac:            command ctrl shift left/right arrows
+

@@ -7,9 +7,9 @@ Mac:            command ctrl shift left/right arrows
 
 
 ## 工作区切换
-终端： 聚焦到终端         ALT + T
-资源管理器：             CTRL + SHIFT + E
-切换工作区：             CTRL + 1
+终端： 聚焦到终端         ALT + T  
+资源管理器：             CTRL + SHIFT + E  
+切换工作区：             CTRL + 1  
 
 
 ## plugin

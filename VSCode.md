@@ -1,5 +1,6 @@
+## vscode system  
 首选项： 打开键盘快捷方式
-Preference： Open Keybaord Shortcuts
+Preference： Open Keybaord Shortcuts  
 
 
 

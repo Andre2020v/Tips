@@ -1,3 +1,6 @@
+首选项： 打开键盘快捷方式
+Preference： Open Keybaord Shortcuts
+
 
 
 ### smart selection

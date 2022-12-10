@@ -8,6 +8,7 @@
 - sudo apt install make
 - sudo apt-get install git
 - sudo apt-get install openssh-server
+- sudo apt install net-tools
 
 ### grub
 #### 1.disable for NVIDIA

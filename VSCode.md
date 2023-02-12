@@ -1,7 +1,7 @@
 ## vscode system  
 首选项： 打开键盘快捷方式  
 Preference： Open Keybaord Shortcuts  
-
+Ctrl K  Ctrl  S
 
 
 ### smart selection

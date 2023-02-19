@@ -1,5 +1,8 @@
 # Tips
 
+## Python
+- pip install PyExifTool
+
 ## ubuntu
 ### First
 - sudo apt update

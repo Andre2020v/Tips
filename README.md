@@ -2,6 +2,7 @@
 
 ## Python
 - pip install PyExifTool
+- pip install exiv2
 
 ## ubuntu
 ### First

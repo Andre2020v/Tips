@@ -4,6 +4,9 @@
 - pip install PyExifTool
 - pip install exiv2
 
+## Anaconda
+- conda update -n base -c defaults conda
+
 ## ubuntu
 ### First
 - sudo apt update

@@ -6,6 +6,8 @@
 
 ## Anaconda
 - conda update -n base -c defaults conda
+- conda env create -f environment.yml 
+- conda remove --name env_name --all
 
 ## ubuntu
 ### First

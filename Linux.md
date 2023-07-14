@@ -34,6 +34,7 @@
 - pip install opengrok-tools.tar.gz
 - opengrok-deploy -c opengrok/etc/configuration.xml     opengrok/dist/lib/source.war apache-tomcat-10.1.11/webapps/
 - opengrok-indexer     -J=-Djava.util.logging.config.file=opengrok/etc/logging.properties     -a opengrok/dist/lib/opengrok.jar --     -c /usr/local/bin/ctags     -s opengrok/src -d opengrok/data -H -P -S -G     -W opengrok/etc/configuration.xml -U http://localhost:8080/source
+- mkdir work/tools
 - 
 
 

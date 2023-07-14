@@ -1,6 +1,8 @@
 ## ubuntu install
 - sudo apt-get install gcc
 - sudo apt install make
+- sudo apt-get install autoconf
+- sudo apt-get install pkg-config
 - sudo apt-get install autotools(*)
 - sudo apt-get install git
 - sudo apt-get install openssh-server

@@ -1,4 +1,5 @@
 ## ubuntu install
+- sudo apt install open-vm-tools (*)
 - sudo apt-get install gcc
 - sudo apt install make
 - sudo apt-get install autoconf
@@ -19,7 +20,8 @@
 - ./autogen.sh
 - ./configure
 - sudo make install
-
+- tar zxvf apache-tomcat-10.1.11.tar.gz
+- cd apache-tomcat-10.1.11
 
 
 

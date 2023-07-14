@@ -1,6 +1,7 @@
 ## ubuntu install
 - sudo apt-get install gcc
 - sudo apt install make
+- sudo apt-get install autotools(*)
 - sudo apt-get install git
 - sudo apt-get install openssh-server
 - sudo apt install net-tools
@@ -9,7 +10,9 @@
 - sudo apt install python2-pip-whl
 - sudo apt install python2-setuptools-whl
 - virtualenv -p /usr/bin/python2.7 python27
-- 
+- pip install formatter ( source python27/bin/activate )
+- sudo apt install repo
+- sudo apt install default-jdk
 
 
 

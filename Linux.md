@@ -21,7 +21,10 @@
 - ./configure
 - sudo make install
 - tar zxvf apache-tomcat-10.1.11.tar.gz
-- cd apache-tomcat-10.1.11
+- cd apache-tomcat-10.1.11/bin ; ./startup.sh
+- mkdir opengrok
+- mkdir opengrok/{src,data,dist,etc,log}
+- 
 
 
 

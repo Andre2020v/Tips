@@ -24,6 +24,7 @@
 - cd apache-tomcat-10.1.11/bin ; ./startup.sh
 - mkdir opengrok
 - mkdir opengrok/{src,data,dist,etc,log}
+- tar -C opengrok/dist --strip-components=1 -xzf  opengrok-1.12.12.tar.gz
 - 
 
 

@@ -30,6 +30,8 @@
 - cp ~/work/opengrok/dist/tools/opengrok-tools.tar.gz   .
 - sudo apt install python3.10-venv
 - python3 -m venv env
+- . ./env/bin/activate
+- pip install opengrok-tools.tar.gz
 - 
 
 

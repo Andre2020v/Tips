@@ -15,6 +15,10 @@
 - pip install formatter ( source python27/bin/activate )
 - sudo apt install repo
 - sudo apt install default-jdk
+- git clone https://github.com/universal-ctags/ctags.git
+- ./autogen.sh
+- ./configure
+- sudo make install
 
 
 

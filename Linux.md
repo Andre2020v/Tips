@@ -25,6 +25,11 @@
 - mkdir opengrok
 - mkdir opengrok/{src,data,dist,etc,log}
 - tar -C opengrok/dist --strip-components=1 -xzf  opengrok-1.12.12.tar.gz
+- cp opengrok/dist/doc/logging.properties opengrok/etc
+- cp opengrok/dist/lib/source.war  apache-tomcat-10.1.11/webapps/
+- cp ~/work/opengrok/dist/tools/opengrok-tools.tar.gz   .
+- sudo apt install python3.10-venv
+- python3 -m venv env
 - 
 
 

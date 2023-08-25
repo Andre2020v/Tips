@@ -1,4 +1,8 @@
 # Tips
+## pacman
+pacman -Su
+pacman -Sy base-devel
+pacman -Sy mingw-w64-x86_64-toolchain
 
 ## Python
 - pip install PyExifTool

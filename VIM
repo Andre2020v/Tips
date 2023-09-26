@@ -1,1 +1,12 @@
+filetype on
+syntax on
+set guifont=FiraCode_Nerd_Font_Mono:h11:cANSI:qDRAFT
 
+
+call plug#begin()
+Plug 'NLKNguyen/papercolor-theme'
+
+call plug#end()
+
+set background=light
+colorscheme PaperColor

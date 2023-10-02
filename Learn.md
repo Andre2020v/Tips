@@ -14,6 +14,12 @@ https://github.com/liuyubobobo/Play-with-Algorithm-Interview
 https://aep.xet.tech/s/3jC2xv
 https://labuladong.github.io/algo/
 
+## Python 3 入门机器学习
+https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms
+
+## 玩转线性代数
+https://github.com/liuyubobobo/Play-with-Linear-Algebra
+
 
 
 

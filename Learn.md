@@ -8,5 +8,10 @@ https://coding.imooc.com/class/71.html
 ## Leetcode真题分门别类讲解
 https://coding.imooc.com/class/82.html
 
+## labuladong 的数据结构精品课 V2.1
+https://aep.xet.tech/s/3jC2xv
+https://labuladong.github.io/algo/
+
+
 
 

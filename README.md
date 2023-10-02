@@ -12,6 +12,9 @@ pacman -Sy mingw-w64-x86_64-toolchain
 - conda update -n base -c defaults conda
 - conda env create -f environment.yml 
 - conda remove --name env_name --all
+- C:\ProgramData\anaconda3\
+
+
 
 ## ubuntu
 ### First

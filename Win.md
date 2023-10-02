@@ -5,7 +5,7 @@
 - Photoshop
 - DaVinci Resolve
 - Visual studio 2019
-- 
+- Source insight
 
 ## Linux
 - fzf

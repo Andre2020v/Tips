@@ -36,7 +36,7 @@ sudo update-grub
 sudo vim /etc/modprobe.d/blacklist.conf
   blacklist nouveau
 sudo update-initramfs -u
-``` 
+```
 
 - cat /boot/grub/grub.cfg | grep memuentry
 
@@ -64,3 +64,10 @@ sudo update-initramfs -u
 
 - 
 
+
+
+## hash
+
+da29b9b1b7e081f55b9e33b703988c4d
+
+518245f9ddef0c511d8e84a16eb00670

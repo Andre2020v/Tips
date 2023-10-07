@@ -1,3 +1,13 @@
+## Folding
+|    Keyboard  |   Function               |
+|--------------|--------------------------|
+|      w       | 下一个单词开头            |
+|      b       | 本单词或上一个单词开头     |
+|      e       | 本单词或下一个单词结尾     |
+|      ge      | 上一个单词结尾            |
+|      0       | 行首                     |
+
+
 ## vscode system  
 首选项： 打开键盘快捷方式  
 Preference： Open Keybaord Shortcuts  

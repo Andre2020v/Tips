@@ -1,7 +1,7 @@
 ## Folding
 |    Keyboard         |   Function                                                        |
 |---------------------|-------------------------------------------------------------------|
-|      zo             |  Open one fold under the cursor.When a count is given, that many folds deep will be opened. |                                              |      zO             |  Open all folds under the cursor recursively                      |
+|      zo             |  Open one fold under the cursor.When a count is given, that many folds deep will be opened.|                                              |      zO             |  Open all folds under the cursor recursively                      |
 |      zc             |  Close one fold under the cursor. When a count is given, that many folds deep are closed. |
 |      zC             |  Close all folds under the cursor recursively.                    |
 |      za             |  When on a closed fold: open it. When on an open fold: close it and set 'foldenable'.|

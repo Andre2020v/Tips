@@ -1,16 +1,16 @@
 ## Folding
-|    Keyboard         |   Function                                                        |
-|---------------------|-------------------------------------------------------------------|
-|      zo             |  Open one fold under the cursor.When a count is given, that many folds deep will be opened.|                                              |      zO             |  Open all folds under the cursor recursively                      |
-|      zc             |  Close one fold under the cursor. When a count is given, that many folds deep are closed. |
-|      zC             |  Close all folds under the cursor recursively.                    |
-|      za             |  When on a closed fold: open it. When on an open fold: close it and set 'foldenable'.      |
-|                     |   使用shift + v 选择要折叠的行，za 折叠                              |
-|      zf             | 折叠命令, 可以使用v 来选取要折叠的行，也可以用鼠标选择                 |
-|      zf{count}j     | 折叠命令, zf5j 向下折叠5行                                          |
-|      zf%            | 折叠命令，在括号出可以折叠括号内所有部分                               |
-|      zM             | 折叠所有，配合命令，zM  zo，打开最外的一层，zR 打开所有折叠             |
-|      zc             | 折叠命令，e.g. 在括号内任意位置run可以折叠括号                         |
+| Keyboard   | Function                                                     |
+| ---------- | ------------------------------------------------------------ |
+| zo         | Open one fold under the cursor.When a count is given, that many folds deep will be opened. |
+| zO         | Open all folds under the cursor recursively.                 |
+| zc         | Close one fold under the cursor. When a count is given, that many folds deep are closed.<br />折叠命令，e.g. 在括号内任意位置run可以折叠括号 |
+| zC         | Close all folds under the cursor recursively.                |
+| za         | When on a closed fold: open it. When on an open fold: close it and set 'foldenable'.<br />使用shift + v 选择要折叠的行，za 折叠 |
+| zR         | Open all folds. This sets 'foldlevel' to highest fold level. |
+| zf         | 折叠命令, 可以使用v 来选取要折叠的行，也可以用鼠标选择       |
+| zf{count}j | 折叠命令, zf5j 向下折叠5行                                   |
+| zf%        | 折叠命令，在括号出可以折叠括号内所有部分                     |
+| zM         | 折叠所有，配合命令，zM  zo，打开最外的一层，zR 打开所有折叠  |
 
 
 ## vscode system  

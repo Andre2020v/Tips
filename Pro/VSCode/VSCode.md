@@ -52,3 +52,8 @@ Ctrl + ALT +  L    jump next
 ## 折叠
 - 键入 v ， 开始选择要折叠的行，键入 zf
 - 
+
+## 文本处理
+- 在visual mode [输入v]选择文本，读到文本宽度，例如80
+- 然后输入 set textwidth=80
+- gqq

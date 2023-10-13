@@ -11,4 +11,7 @@
 - :  命令模式
 - v  可视化模式
 
+### 屏幕操作
+- vs  vertical split
+- sp  split
 

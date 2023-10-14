@@ -19,7 +19,7 @@
 - Alt+上方向键: 使用vim visual mode选择 或者 使用鼠标选择
 
 ## Move
-- Ctrl + 9
+- Ctrl + 9 : 查看: 打开组中最后一个编辑器
 ```bash
  {
   "key": "ctrl+9",

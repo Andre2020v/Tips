@@ -20,12 +20,12 @@
 
 ## Move
 - Ctrl + 9
-''' bash
+```bash
  {
   "key": "ctrl+9",
   "command": "workbench.action.lastEditorInGroup"
  }
-'''
+```
 
 ## vscode system  
 首选项： 打开键盘快捷方式  

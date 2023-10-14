@@ -13,6 +13,11 @@
 | zM         | 折叠所有，配合命令，zM  zo，打开最外的一层，zR 打开所有折叠  |
 
 
+# VScode Native
+## Edit
+- Alt+上方向键: 使用vim visual mode选择 或者 使用鼠标选择
+
+
 ## vscode system  
 首选项： 打开键盘快捷方式  
 Preference： Open Keybaord Shortcuts  

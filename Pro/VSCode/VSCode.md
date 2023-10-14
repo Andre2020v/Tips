@@ -1,3 +1,4 @@
+# VScodeVim
 ## Folding
 | Keyboard   | Function                                                     |
 | ---------- | ------------------------------------------------------------ |
@@ -17,6 +18,14 @@
 ## Edit
 - Alt+上方向键: 使用vim visual mode选择 或者 使用鼠标选择
 
+## Move
+- Ctrl + 9
+''' bash
+ {
+  "key": "ctrl+9",
+  "command": "workbench.action.lastEditorInGroup"
+ }
+'''
 
 ## vscode system  
 首选项： 打开键盘快捷方式  

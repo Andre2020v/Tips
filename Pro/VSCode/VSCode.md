@@ -16,7 +16,14 @@
 
 # VScode Native
 ## Edit
-- Alt+上方向键: 使用vim visual mode选择 或者 使用鼠标选择
+- Alt+上方向键(UpArrow): 向上移动行, 可以使用vim visual mode选择 或者 使用鼠标选择
+```bash
+{
+  "key": "alt+up",
+  "command": "editor.action.moveLinesUpAction",
+  "when": "editorTextFocus && !editorReadonly"
+}
+```
 
 ## Move
 - Ctrl + 9 : 查看: 打开组中最后一个编辑器

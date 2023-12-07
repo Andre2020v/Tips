@@ -9,6 +9,8 @@ dependencies:
   - pip
   - tqdm
   - matplotlib
+  - pillow
+  - pandas
   - scikit-image
   - seaborn
   - pip:

@@ -23,3 +23,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ## Cherry 键盘
 
 FN 键常亮 ：  按Ctrl 后再按FN 可以取消
+
+
+C:\Users\xxx\AppData\Roaming

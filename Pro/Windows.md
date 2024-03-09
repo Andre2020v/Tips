@@ -19,6 +19,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ## 安装字体
 - https://www.nerdfonts.com/font-downloads
 - 下载FiraCode Nerd Font
+- Windows 个性化> 字体， 浏览并安装字体 (通过搜索 字体设置 可以直达)
+- 
 
 ## Cherry 键盘
 

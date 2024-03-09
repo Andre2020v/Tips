@@ -36,3 +36,9 @@ C:\Users\xxx\AppData\Roaming
 - Typora     URPXZK
 - Bandizip   andrew_taof
 - snagit     2024.1.0.1867  NRAE4
+
+### HPG9
+- BC4        #5207-3144
+- Typora     P3EVDF
+- Bandizip   andrew_taof
+- snagit     2023.2.2.636

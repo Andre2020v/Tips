@@ -35,3 +35,4 @@ C:\Users\xxx\AppData\Roaming
 - Honeycam   andrew_duof
 - Typora     URPXZK
 - Bandizip   andrew_taof
+- snagit     2024.1.0.1867  NRAE4

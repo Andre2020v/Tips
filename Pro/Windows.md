@@ -26,3 +26,12 @@ FN 键常亮 ：  按Ctrl 后再按FN 可以取消
 
 
 C:\Users\xxx\AppData\Roaming
+
+
+## SW
+
+### A0385
+- BC4        #5207-3144
+- Honeycam   andrew_duof
+- Typora     URPXZK
+- Bandizip   andrew_taof

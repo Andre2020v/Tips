@@ -16,10 +16,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 允许本地脚本和远程签名脚本	RemoteSigned
 仅允许签名脚本	                AllSigned
 
-### Bandizip
-#### taof  
-- A***0385
-
 ## Cherry 键盘
 
 FN 键常亮 ：  按Ctrl 后再按FN 可以取消

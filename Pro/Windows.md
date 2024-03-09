@@ -16,6 +16,10 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 允许本地脚本和远程签名脚本	RemoteSigned
 仅允许签名脚本	                AllSigned
 
+## 安装字体
+- https://www.nerdfonts.com/font-downloads
+- 下载FiraCode Nerd Font
+
 ## Cherry 键盘
 
 FN 键常亮 ：  按Ctrl 后再按FN 可以取消
@@ -38,3 +42,4 @@ C:\Users\xxx\AppData\Roaming
 - Typora     P3EVDF
 - Bandizip   andrew_taof
 - snagit     2023.2.2.636
+

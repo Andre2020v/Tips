@@ -45,3 +45,7 @@ C:\Users\xxx\AppData\Roaming
 - Bandizip   andrew_taof
 - snagit     2023.2.2.636
 
+## Rog R16
+- BC4        #5207-3144
+- Bandizip   andrew_taof
+- Typora     854RW5

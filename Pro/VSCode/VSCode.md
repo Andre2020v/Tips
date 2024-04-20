@@ -99,3 +99,7 @@ Ctrl + ALT +  L    jump next
 
 - 分别选中这些配对标点符号中的文本内容
   vi’、vi”、vi(、vi[、vi{、vi<
+
+## 占用空间
+- data/User
+  

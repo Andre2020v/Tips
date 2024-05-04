@@ -37,6 +37,7 @@
 - mkdir work/tools
 - git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf  ;  ~/.fzf/install
 - sudo apt install fd-find
+- ln -s $(which fdfind) ~/.local/bin/fd
 - sudo apt-get install ripgrep
 
 

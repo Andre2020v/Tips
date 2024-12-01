@@ -7,7 +7,7 @@
 ## SW
 
 ### A0385
-- BC4        #8603-3028
+- BC5        #8603-3028
 - Typora     URPXZK
 - Bandizip   andrew_taof ,  20230218
 - snagit     2024.3.0  C45D8

@@ -1,7 +1,8 @@
 ## Path
 ### toolchain
 - C:\Alpha\Dev\Toolchain
-
+### vim
+- C:\Alpha\Dev\vim
 
 ## SW
 

@@ -11,6 +11,7 @@
 - Typora     URPXZK
 - Bandizip   andrew_taof ,  20230218
 - snagit     2024.3.0  C45D8
+- BandiView  andrew_taof
 
 ### HPG9
 - BC4        #5207-3144

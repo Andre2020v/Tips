@@ -7,11 +7,10 @@
 ## SW
 
 ### A0385
-- BC4        #5207-3144
-- Honeycam   andrew_duof
+- BC4        #8603-3028
 - Typora     URPXZK
-- Bandizip   andrew_taof
-- snagit     2024.1.0.1867  NRAE4
+- Bandizip   andrew_taof ,  20230218
+- snagit     2024.3.0  C45D8
 
 ### HPG9
 - BC4        #5207-3144

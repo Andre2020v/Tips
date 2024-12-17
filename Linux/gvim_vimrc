@@ -3,6 +3,7 @@
 filetype on
 syntax on
 set guifont=FiraCode_Nerd_Font_Mono:h11:cANSI:qDRAFT
+set guifont=Courier\ New:h10
 
 
 call plug#begin()

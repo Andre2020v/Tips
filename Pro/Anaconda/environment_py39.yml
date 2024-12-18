@@ -25,3 +25,4 @@ dependencies:
       - colour_demosaicing
       - jsbeautifier
       - PyExifTool
+      - pyimagej

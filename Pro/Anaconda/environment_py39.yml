@@ -15,6 +15,7 @@ dependencies:
   - scikit-image
   - seaborn
   - GitPython
+  - pyserial
   - pip:
       - pypher
       - opencv-python

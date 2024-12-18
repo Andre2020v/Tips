@@ -16,6 +16,7 @@ dependencies:
   - seaborn
   - GitPython
   - pyserial
+  - humanize
   - pip:
       - pypher
       - opencv-python

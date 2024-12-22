@@ -23,3 +23,7 @@
 - BC4        #5207-3144
 - Bandizip   andrew_taof
 - Typora     854RW5
+
+## Typora
+- A Typora license is granted to the “user”, which can be activated on up to 3 devices from one person for one license with no expiration time.
+- 

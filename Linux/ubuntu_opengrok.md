@@ -8,7 +8,11 @@
 - sudo apt-get install git
 - sudo apt-get install openssh-server
 - sudo apt install net-tools
-- sudo apt install python2.7
+- sudo apt install python2.7(*)
+- curl -O https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+- chmod +x Anaconda3-2024.10-1-Linux-x86_64.sh
+- source /home/andrew/anaconda3/bin/activate
+- conda create -n py27 python=2.7
 - sudo apt install python3-virtualenv
 - sudo apt install python2-pip-whl
 - sudo apt install python2-setuptools-whl

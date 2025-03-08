@@ -13,11 +13,11 @@
 - chmod +x Anaconda3-2024.10-1-Linux-x86_64.sh
 - source /home/andrew/anaconda3/bin/activate
 - conda create -n py27 python=2.7
-- sudo apt install python3-virtualenv
-- sudo apt install python2-pip-whl
-- sudo apt install python2-setuptools-whl
-- virtualenv -p /usr/bin/python2.7 python27
-- pip install formatter ( source python27/bin/activate )
+- sudo apt install python3-virtualenv(*)
+- sudo apt install python2-pip-whl(*)
+- sudo apt install python2-setuptools-whl(*)
+- virtualenv -p /usr/bin/python2.7 python27(*)
+- pip install formatter ( conda activate py27 )
 - sudo apt install repo
 - sudo apt install default-jdk
 - git clone https://github.com/universal-ctags/ctags.git

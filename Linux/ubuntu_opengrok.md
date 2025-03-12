@@ -45,6 +45,9 @@
 - sudo apt-get install ripgrep
 
 
+## opengrok 
+- opengrok-deploy -c opengrok/etc/configuration.xml opengrok/dist/lib/source.war tomcat10/webapps
+
 
 ## fd 命令用法
 

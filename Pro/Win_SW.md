@@ -27,3 +27,7 @@
 ## Typora
 - A Typora license is granted to the “user”, which can be activated on up to 3 devices from one person for one license with no expiration time.
 - 
+
+## PC
+- YuanhangR16
+- 

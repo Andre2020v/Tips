@@ -1,11 +1,12 @@
-### Bookmarks
+# Windows
+- Python
+- Pylance
+- jupyter
+- C/C++
+- Python Debugger
+- Juyper Keymap
 
-### Remote - SSH
 
-### Hex Editor
-
-### VIM
-
-### Material Icon Theme
+# Linux
 
 

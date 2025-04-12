@@ -17,6 +17,7 @@
 - Bookmarks
 - Partial Diff
 - beyond compare
+- matlab
 
 
 # Linux

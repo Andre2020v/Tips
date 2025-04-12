@@ -7,7 +7,7 @@
 - Gitlens
 - Material Icon Theme
 - Remote-SSH
-- 
+- RainBow CSV
 
 
 # Linux

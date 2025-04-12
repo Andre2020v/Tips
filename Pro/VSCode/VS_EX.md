@@ -1,10 +1,8 @@
 # Windows
 - Python
-- Pylance
-- jupyter
+- Jupyter
 - C/C++
-- Python Debugger
-- Juyper Keymap
+- CMake Tools
 
 
 # Linux

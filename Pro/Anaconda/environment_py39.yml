@@ -25,6 +25,7 @@ dependencies:
       - rawpy
       - XlsxWriter
       - colour_demosaicing
+      - colour-science
       - jsbeautifier
       - PyExifTool
       - pyimagej

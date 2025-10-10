@@ -20,7 +20,7 @@ pacman -Sy mingw-w64-x86_64-toolchain
 - 删除某个环境        conda remove -n 环境名 --all
 - 导出环境配置        conda env export > environment.yml
 - 用配置文件重建环境   conda env create -f environment.yml
-
+- conda install -c conda-forge --force-reinstall numpy scikit-image
 
 
 ## ubuntu

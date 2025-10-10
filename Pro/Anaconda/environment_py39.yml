@@ -6,7 +6,6 @@ dependencies:
   - notebook
   - numpy
   - scipy
-  - pip
   - tqdm
   - matplotlib
   - pillow

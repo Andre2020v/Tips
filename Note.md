@@ -16,6 +16,12 @@ pacman -Sy mingw-w64-x86_64-toolchain
 - conda env create -f environment.yml 
 - conda remove --name env_name --all
 - C:\ProgramData\anaconda3\
+| 操作        | 命令                                     |
+| --------- | -------------------------------------- |
+| 查看所有环境    | `conda env list` 或 `conda info --envs` |
+| 删除某个环境    | `conda remove -n 环境名 --all`            |
+| 导出环境配置    | `conda env export > environment.yml`   |
+| 用配置文件重建环境 | `conda env create -f environment.yml`  |
 
 
 

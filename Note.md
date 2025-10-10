@@ -10,6 +10,9 @@ pacman -Sy mingw-w64-x86_64-toolchain
 
 ## Anaconda
 - conda update -n base -c defaults conda
+- conda create -n py39 python=3.9
+- conda activate py39
+- conda install scikit-image numpy matplotlib pillow  tqdm scipy notebook pandas openpyxl seaborn GitPython pyserial humanize
 - conda env create -f environment.yml 
 - conda remove --name env_name --all
 - C:\ProgramData\anaconda3\

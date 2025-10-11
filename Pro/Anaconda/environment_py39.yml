@@ -17,12 +17,12 @@ dependencies:
   - pyserial
   - humanize
   - ipywidgets
+  - xlsxWriter
   - pip
   - pip:
       - pypher
       - opencv-python
       - rawpy
-      - XlsxWriter
       - colour_demosaicing
       - colour-science
       - jsbeautifier

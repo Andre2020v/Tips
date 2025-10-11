@@ -9,13 +9,13 @@ dependencies:
   - tqdm=4.67.1
   - matplotlib=3.10.6
   - pillow=11.3.0
-  - pandas=2.3.1
+  - pandas=2.3.3
   - openpyxl=3.1.5
-  - scikit-image=0.24.0
+  - scikit-image=0.25.2
   - seaborn=0.13.2
   - GitPython=3.1.45
   - pyserial=3.5
-  - humanize=4.12.3
+  - humanize=4.13.0
   - colour_demosaicing=0.2.5
   - colour-science=0.4.4
   - pip

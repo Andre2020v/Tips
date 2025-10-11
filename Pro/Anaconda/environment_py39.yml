@@ -16,6 +16,7 @@ dependencies:
   - GitPython
   - pyserial
   - humanize
+  - pip
   - pip:
       - pypher
       - opencv-python

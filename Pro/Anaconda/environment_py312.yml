@@ -23,9 +23,6 @@ dependencies:
   - jsbeautifier=1.15.4
   - pip
   - pip:
-      - colour_demosaicing=0.2.5
-      - colour-science=0.4.4
-      - opencv-python=4.8.1
-
-      - PyExifTool
-
+      - colour-demosaicing=0.2.6
+      - colour-science=0.4.6
+      - opencv-python=4.12.0.88

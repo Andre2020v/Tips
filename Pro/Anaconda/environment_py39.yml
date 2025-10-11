@@ -27,4 +27,3 @@ dependencies:
       - colour-science
       - jsbeautifier
       - PyExifTool
-      - pyimagej

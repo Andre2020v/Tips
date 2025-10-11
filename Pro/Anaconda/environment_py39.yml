@@ -27,3 +27,4 @@ dependencies:
       - jsbeautifier=1.15.4
       - colour-demosaicing=0.2.5
       - colour-science=0.4.4
+      - tkinterdnd2==0.4.3

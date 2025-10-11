@@ -16,11 +16,11 @@ dependencies:
   - GitPython
   - pyserial
   - humanize
+  - ipywidgets
   - pip
   - pip:
       - pypher
       - opencv-python
-      - ipywidgets
       - rawpy
       - XlsxWriter
       - colour_demosaicing

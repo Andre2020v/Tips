@@ -16,14 +16,16 @@ dependencies:
   - GitPython=3.1.45
   - pyserial=3.5
   - humanize=4.13.0
-  - colour_demosaicing=0.2.5
-  - colour-science=0.4.4
+  - pypher=0.7.3
+  - ipywidgets=8.1.7
+  - xlsxWriter=3.2.6
+  - rawpy=0.25.1
+  - jsbeautifier=1.15.4
   - pip
   - pip:
-      - pypher
+      - colour_demosaicing=0.2.5
+      - colour-science=0.4.4
       - opencv-python=4.8.1
-      - ipywidgets
-      - xlsxWriter
-      - rawpy=0.25.1
+
       - PyExifTool
-      - jsbeautifier=1.15.4
+

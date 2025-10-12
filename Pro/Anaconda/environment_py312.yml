@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.12
-  - notebook==7.4.7
+  - notebook=7.4.7
   - numpy=2.2.6
   - scipy=1.16.2 
   - tqdm=4.67.1

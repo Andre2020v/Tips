@@ -71,6 +71,9 @@ sudo update-initramfs -u
 
 - 
 
+## git
+- minttyrc
+- 
 
 
 ## hash

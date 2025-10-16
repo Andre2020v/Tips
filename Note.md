@@ -75,6 +75,10 @@ sudo update-initramfs -u
 - minttyrc
 - 
 
+## uv
+- uv self update
+- uv tool install ruff
+- uv tool upgrade ruff
 
 ## hash
 

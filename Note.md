@@ -69,6 +69,8 @@ sudo update-initramfs -u
 - sudo mount -t cifs -o user=username  //ip_address/study  /local/samba_disk/
 - sudo umount /local/samba_disk/
 
+## brew
+- brew update && brew install cmake qt@5 openssl@3
 - 
 
 ## git

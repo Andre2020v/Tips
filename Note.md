@@ -96,22 +96,16 @@ https://arxiv.org/pdf/1505.04597
 
 ## Scoop
 常用命令
-scoop install <包名>      # 安装
-scoop uninstall <包名>    # 卸载
-scoop update <包名>       # 更新某个包
-scoop update *            # 更新所有已安装的包
-scoop list                # 查看已安装的包
-scoop search <关键词>     # 搜索可用的包
+- scoop install <包名>      # 安装
+- scoop uninstall <包名>    # 卸载
+- scoop update <包名>       # 更新某个包
+- scoop update *            # 更新所有已安装的包
+- scoop list                # 查看已安装的包
+- scoop search <关键词>     # 搜索可用的包
 它装在哪里
-默认所有内容都在 C:\Users\<你的用户名>\scoop\ 下：
+- 默认所有内容都在 C:\Users\<你的用户名>\scoop\ 下：
 ~/scoop/
   apps/       # 安装的软件
   shims/      # 可执行文件的快捷方式（加入 PATH 的目录）
   buckets/    # 软件源（类似 apt 的 repository）
   cache/      # 下载缓存
-与 Winget/Chocolatey 的区别
- 	Scoop	Winget	Chocolatey
-需要管理员权限	否	部分需要	是
-适合场景	命令行开发工具	桌面应用+CLI	通用
-安装位置	用户目录	系统目录	系统目录
-Windows 自带	否	是(Win11)	否

@@ -22,6 +22,10 @@ pacman -Sy mingw-w64-x86_64-toolchain
 - 用配置文件重建环境   conda env create -f environment.yml
 - conda install -c conda-forge --force-reinstall numpy scikit-image
 
+## visual studio
+https://aka.ms/vs/17/release/vs_community.exe  //2022
+
+
 
 ## ubuntu
 ### First

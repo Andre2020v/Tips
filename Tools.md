@@ -2,6 +2,7 @@
 ### rtk
 - brew install rtk
 - cargo install --git https://github.com/rtk-ai/rtk
+- cargo install --git https://github.com/rtk-ai/rtk --force
 
 ### scoop
 - 7zip
